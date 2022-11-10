@@ -273,7 +273,7 @@ a {
 
 .instruction {
   margin-bottom: 95px;
-  background: url("../../img/instruction/fone.svg") 0 0 no-repeat, url(../../img/instruction/fone2.svg) 0 0 no-repeat;
+  background: url("./../../img/instruction/fone.svg") 0 0 no-repeat, url(./../../img/instruction/fone2.svg) 0 0 no-repeat;
   height: 1887px;
 }
 
