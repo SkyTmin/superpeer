@@ -408,7 +408,7 @@ a {
 }
 
 .management {
-  background: url("./img/management/fone3.svg") 0 0 no-repeat;
+  background: url(../img/management/fone3.svg) 0 0 no-repeat;
   height: 1887px;
 }
 
@@ -701,7 +701,7 @@ a {
   margin-top: 322px;
   max-width: 1440px;
   max-height: 471px;
-  background: url(./img/prising/foneprising.svg);
+  background: url(../img/prising/foneprising.svg);
 }
 
 .pricing__title {
