@@ -1,0 +1,36 @@
+.footer {
+	margin-top: 253px;
+	max-width: 1440px;
+	max-height: 152px;
+}
+.footer__row {
+	display: flex;
+	align-items: center;
+	padding-bottom: 128px;
+}
+.li__row {
+	display: flex;
+	gap: 32px;
+}
+
+.li__hover{
+	transition: background-color 0.3s ease-in;
+
+	color: black;
+}
+.li__hover:hover{
+	color:#f5c208;
+}
+
+.fotter__row-img {
+	margin-left: 25%;
+	display: flex;
+	gap: 25px;
+}
+
+.footer__superpeer {
+	margin-left: 34%;
+}
+.footer__superpeer:hover{
+	color:#f5c208;
+}
